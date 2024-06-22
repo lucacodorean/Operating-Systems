@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "unistd.h": "c",
+        "struct_iovec.h": "c",
+        "stdlib.h": "c"
+    }
+}
